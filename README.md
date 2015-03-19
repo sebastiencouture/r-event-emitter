@@ -1,7 +1,7 @@
 recurve-event-emitter [![Build Status](https://secure.travis-ci.org/sebastiencouture/recurve-event-emitter.png?branch=master)](https://travis-ci.org/sebastiencouture/recurve-event-emitter)
 ===
 
-Event emitter library for the browser and Node.js.
+Event emitter library for the browser.
 
 Take a look at [recurve-signal](http://github.com/sebastiencouture/recurve-signal) for an alternative approach.
 
