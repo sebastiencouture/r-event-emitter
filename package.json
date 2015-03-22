@@ -1,7 +1,7 @@
 {
     "name": "recurve-event-emitter",
     "author": "Sebastien Couture",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "main": "src/recurve-event-emitter.js",
     "repository": {
         "type": "git",

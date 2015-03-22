@@ -1,6 +1,6 @@
 {
   "name": "recurve-event-emitter",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "author": "Sebastien Couture",
   "main": "dist/recurve-event-emitter.js",
   "license": "MIT",

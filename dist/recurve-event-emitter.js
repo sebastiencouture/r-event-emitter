@@ -1,6 +1,6 @@
 /*!
-recurve-event-emitter.js - v0.1.1
-Created by Sebastien Couture on 2015-03-18.
+recurve-event-emitter.js - v0.1.2
+Created by Sebastien Couture on 2015-03-22.
 
 git://github.com/sebastiencouture/recurve-event-emitter.git
 
